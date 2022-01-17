@@ -1,4 +1,4 @@
-```
+``````
 @rem 关闭回显
 @echo off
 @rem 开启变量延迟
@@ -18,4 +18,4 @@ for %%i in (*_0_0.jpg) do (
 endlocal
 @rem 按任意键继续执行
 pause
-```
+``````
